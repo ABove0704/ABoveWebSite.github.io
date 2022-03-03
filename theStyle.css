@@ -1,12 +1,15 @@
 body {
-    background-color: purple;
+    background-color: orangered;
+    padding: 10px;
+    border: solid 15px lightblue;
+    margin: 4vh;
 }
 
 main {
-    background-color: green;
-    padding: 10px;
-    border: solid 5px blue;
-    margin: 4vh;
+    background-color: blueviolet;
+    padding: 5px;
+    border: solid 5px lightblue;
+    margin: 2vh;
 }
 
 p {
@@ -15,9 +18,9 @@ p {
 }
 
 #mashed {
-    background-color: orange;
+    background-color: orangered;
     padding: 4vw;
-    margin: 10px;
+    margin: 2px;
 }
 .potato {
     color: skyblue;
